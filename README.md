@@ -1,9 +1,9 @@
 # fintract
 
-A PHP SDK to make API calls of api.fintract.io
+A PHP SDK to use OCR Service fintract.io
 ==============================================
 
-fintract PHP SDK API used to integrate fintract REST API into your PHP application.
+fintract PHP SDK API can be used to integrate fintract REST API into your own PHP application.
 fintract is a commercial OCR REST Service for financial document such as invoices, receipts, identity cards and much more. Simply send a PDF or Image to the REST Service and you receive back structured data in JSON format.
 
 All Access to the APIs are restricted by an API Key. Request your access on https://www.fintract.io/ by submitting the contact form.
