@@ -19,7 +19,7 @@ Report any feedback or problems with this version by [opening an issue on Github
 
 You can use the SDK using [composer](https://getcomposer.org/). Run the following command in your project directory to update your `composer.json` file and download the SDK.
 
-    $ composer update
+    $ composer require fintract/fintract-api-php
 
 Alternatively, you can download this source and run
 
